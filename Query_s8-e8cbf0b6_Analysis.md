@@ -8,11 +8,7 @@ Session inspected: `s8-e8cbf0b6`
 
 Primary session report:
 
-[visible_browser_replay_report_s8-e8cbf0b6.html](S9SharedCodeVisibleAgent/code/state/sessions/s8-e8cbf0b6/visible_browser_reports/s8-e8cbf0b6/visible_browser_replay_report_s8-e8cbf0b6.html)
-
-Browser-folder alias of the same session report:
-
-[visible_browser_replay_report_s8-e8cbf0b6.html](S9SharedCodeVisibleAgent/code/state/sessions/s8-e8cbf0b6/browser/visible_browser_reports/s8-e8cbf0b6/visible_browser_replay_report_s8-e8cbf0b6.html)
+[visible_browser_replay_report_s8-e8cbf0b6.html](reports/s8-e8cbf0b6/visible_browser_replay_report_s8-e8cbf0b6.html)
 
 ## Short Answer
 
